@@ -18,6 +18,6 @@ We used R and RSocrata to pull data from different sources. We then merged the t
 
 # **Findings**
 
-We found the the number one indicator correalted with crime was poverty along with population density. This means bigger cities expereince more crime and people with lower poverty are more inclined to commit crimes/ be arrested. We also found that the region with highest crime rates was the South.
+We found the the number one indicator correalted with crime was poverty along with population density at number two. This means bigger cities expereince more crime and people with lower poverty are more inclined to commit crimes/ be arrested. We also found that the region with highest crime rates was the South.
 
 
