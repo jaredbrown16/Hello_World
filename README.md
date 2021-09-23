@@ -10,7 +10,10 @@ My name is Jared and I am a senior at the university of Iowa. I am currently loo
 
 # **Project Description** 
 
-Looked at state crime compared with state demographic data to find any insights on:  1. where 2. who  3. what type of people are commiting certain types of crimes.   
+Looked at state crime compared with state demographic data to find any insights on:  
+1. where 
+2. who
+3. what crime    
 
 # **Methods**
 
